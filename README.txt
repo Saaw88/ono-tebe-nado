@@ -1,1 +1,1 @@
-https://github.com/Saaw88/ono-tebe-nado
+https://github.com/Saaw88/ono-tebe-nado.git
